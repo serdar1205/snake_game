@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288819926248",
+    "project_id": "snakegame-d526c",
+    "storage_bucket": "snakegame-d526c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288819926248:android:3535880d14f0d601a5a55d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_snake_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKlCezXSjlh2YYUPgMhmo1T4mTOj003o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
